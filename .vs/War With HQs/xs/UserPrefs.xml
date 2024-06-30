@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{461D336E-AC8B-27B4-6228-A170875D9C77}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1ab48b16-59d1-4ccd-89bf-41c516098839" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Health_text.cs">
+    <Files>
+      <File FileName="Assets/scripts/Controller.cs" />
+      <File FileName="Assets/scripts/Enemy_1.cs" />
+      <File FileName="Assets/scripts/Textt.cs" />
+      <File FileName="Assets/scripts/Collision_Enemy1/Collision25.cs" />
+      <File FileName="Assets/scripts/Collision_Enemy1/Collision21.cs" />
+      <File FileName="Assets/scripts/Collision_Enemy1/Collision22.cs" />
+      <File FileName="Assets/scripts/Collision_Enemy1/Collision23.cs" />
+      <File FileName="Assets/scripts/Collision_Enemy1/Collision24.cs" />
+      <File FileName="Assets/scripts/Gate.cs" />
+      <File FileName="Assets/scripts/Collision_e2/Collision31.cs" />
+      <File FileName="Assets/scripts/Collision_e2/Collision32.cs" />
+      <File FileName="Assets/scripts/Collision_e2/Collision33.cs" />
+      <File FileName="Assets/scripts/Collision_e2/Collision34.cs" />
+      <File FileName="Assets/scripts/Collision_e2/Collision35.cs" />
+      <File FileName="Assets/scripts/Enemy_2.cs" />
+      <File FileName="Assets/scripts/Textt2.cs" />
+      <File FileName="Assets/scripts/robot_ball.cs" />
+      <File FileName="Assets/scripts/Health_text.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Collision_Enemy1/CollisionCapsule/Collision.cs" />
+      <File FileName="Assets/scripts/Shake.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
